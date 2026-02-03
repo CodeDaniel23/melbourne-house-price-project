@@ -35,7 +35,7 @@ Melbourne_house_price_project/
 │── melbourne-house-price-prediction.ipynb
 │── README.md
 └── data_link2/
-└── Melbourne_housing_FULL.csv
+    └── Melbourne_housing_FULL.csv
 
 ## Future Improvements (Optional)
 - Try Ridge / Lasso Regression
